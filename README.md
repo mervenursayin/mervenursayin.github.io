@@ -1,5 +1,4 @@
-# mervenursayin.github.io
-# bmgwebsite
+
 Merhaba, ben Merve Nur. Bursa Teknik Üniversitesi Bilgisayar Mühendisliği 1. sınıf öğrencisiyim. Bu proje, bilgisayar mühendisliğine giriş dersi dönem projesi kapsamında yapıldı. Proje, basit bir website sayfası oluşturmaktı ve konusu serbestti. Bu yüzden proje konusu olarak memleketim olan Gaziantep'i tanıtmayı tercih ettim.
 Umarım faydalı olur.
 
